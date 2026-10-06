@@ -1,1 +1,1 @@
-from . import vehicles
+from track_flow.models.vehicles import Vehicle
